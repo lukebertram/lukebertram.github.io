@@ -1,0 +1,10 @@
+a {
+  color: red;
+  text-decoration: none;
+}
+.bio-box {
+  border: 1px solid black;
+}
+.bio-box a {
+  color: green;
+}
