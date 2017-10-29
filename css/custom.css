@@ -110,7 +110,7 @@ a {
   height: 100vh;
   padding-top: 10vh;
 }
-.full-hero::after{
+.full-hero:after{
   border: 10px solid;
   border-color: #fff transparent transparent;
   bottom: 2vh;
